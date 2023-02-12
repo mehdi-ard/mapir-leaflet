@@ -4,11 +4,11 @@
 
 ## Getting started
 
-In the simple case you just need to add [`options`](https://leafletjs.com/reference.html#map-option) prop to `MapIr` component
+In the simple case you just need to add [`options`](https://leafletjs.com/reference.html#map-option) prop to `mapir-leaflet` component
 
 ```javascript
 import React from 'react';
-import MapIr from 'MapIr'
+import MapIr from 'mapir-leaflet'
 
 
 function SimpleMap() {
@@ -33,7 +33,7 @@ export default SimpleMap;
 npm:
 
 ```
-npm i mapir
+npm i map-ir
 ```
 
 ## Features
